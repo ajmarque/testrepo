@@ -1,4 +1,4 @@
 #testrepo
-#An attempt at creating a repository
+#An example of PIC32 code for enabling Timer2 Interrupt
 
 
